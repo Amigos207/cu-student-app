@@ -1,5 +1,5 @@
 {
-  "min_version": "1.0.0",
+  "min_version": "1.0.1",
   "download_url": "https://github.com/Amigos207/cu-student-app/releases/latest/download/app-release.apk",
-  "changelog": ""
+  "changelog": "• Fixed sidebar menu not opening\n• Fixed colored strip on lesson cards overflowing card borders\n• Fixed black strips in drawer header background\n• Hacker theme: active lesson now highlighted in amber instead of green\n• Added author credits in Settings"
 }
