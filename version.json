@@ -1,7 +1,7 @@
 {
-  "min_version": "1.0.2",
-  "download_url": "https://github.com/Amigos207/cu-student-app/releases/latest/download/app-release.apk",
-  "changelog_en": "• New Grades section — shows all grades and GPA.",
-  "changelog_ru": "• Добавлен раздел Оценки — отображает все оценки и расчёт GPA.",
-  "changelog_ka": "• დაემატა შეფასებების განყოფილება — აჩვენებს შეფასებებს და GPA-ს."
+  "min_version": "1.0.3",
+  "download_url": "https://github.com/Amigos207/cu-student-app/releases/download/v1.0.2/app-release.apk",
+  "changelog_ru": "— Исправлена установка обновлений\n— Другие улучшения",
+  "changelog_ka": "— განახლებები გამოსწორდა",
+  "changelog_en": "— Fixed update installation\n— Other improvements"
 }
