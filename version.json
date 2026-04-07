@@ -1,7 +1,7 @@
 {
-  "min_version": "1.0.3",
-  "download_url": "https://github.com/Amigos207/cu-student-app/releases/download/v1.0.3/app-release.apk",
-  "changelog_ru": "— Исправлена установка обновлений\n— Другие улучшения",
-  "changelog_ka": "— განახლებები გამოსწორდა",
-  "changelog_en": "— Fixed update installation\n— Other improvements"
+  "min_version": "1.0.4",
+  "download_url": "https://github.com/Amigos207/cu-student-app/releases/download/v1.0.4/app-release.apk",
+  "changelog_ru": "🚀 Что нового в v1.0.4:\n📅 Расписание экзаменов: отслеживайте предстоящие экзамены прямо в приложении.\n🎨 Редизайн оценок: аккуратный дизайн и динамические цветовые бейджи успеваемости.\n⚡ Оптимизация: мгновенная загрузка страниц благодаря новой системе кэширования.\n🐛 Улучшения: исправлена логика выбора актуального семестра.",
+  "changelog_ka": "🚀 რა არის ახალი v1.0.4-ში:\n📅 გამოცდების ცხრილი: თვალი ადევნეთ მომავალ გამოცდებს პირდაპირ აპლიკაციაში.\n🎨 ნიშნების ეკრანის ახალი დიზაინი: დაემატა დინამიური ფერადი ნიშნულები ქულების მიხედვით.\n⚡ ოპტიმიზაცია: ახალი ქეშირების სისტემის წყალობით გვერდები მყისიერად იტვირთება.\n🐛 გაუმჯობესებები: გასწორდა სემესტრის არჩევის ლოგიკა.",
+  "changelog_en": "🚀 What's New in v1.0.4:\n📅 Exams Schedule: track your upcoming exams directly in the app.\n🎨 Grades Redesign: fresh look with dynamic color badges based on your performance.\n⚡ Performance: pages now load instantly thanks to our new smart caching system.\n🐛 Under-the-hood: fixed semester selection logic to show the latest schedule."
 }
