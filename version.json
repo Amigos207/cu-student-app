@@ -1,7 +1,7 @@
 {
-  "min_version": "1.0.4",
-  "download_url": "https://github.com/Amigos207/cu-student-app/releases/download/v1.0.4/app-release.apk",
-  "changelog_ru": "🚀 Что нового в v1.0.4:\n📅 Расписание экзаменов: отслеживайте предстоящие экзамены прямо в приложении.\n🎨 Редизайн оценок: аккуратный дизайн и динамические цветовые бейджи успеваемости.\n⚡ Оптимизация: мгновенная загрузка страниц благодаря новой системе кэширования.\n🐛 Улучшения: исправлена логика выбора актуального семестра.",
-  "changelog_ka": "🚀 რა არის ახალი v1.0.4-ში:\n📅 გამოცდების ცხრილი: თვალი ადევნეთ მომავალ გამოცდებს პირდაპირ აპლიკაციაში.\n🎨 ნიშნების ეკრანის ახალი დიზაინი: დაემატა დინამიური ფერადი ნიშნულები ქულების მიხედვით.\n⚡ ოპტიმიზაცია: ახალი ქეშირების სისტემის წყალობით გვერდები მყისიერად იტვირთება.\n🐛 გაუმჯობესებები: გასწორდა სემესტრის არჩევის ლოგიკა.",
-  "changelog_en": "🚀 What's New in v1.0.4:\n📅 Exams Schedule: track your upcoming exams directly in the app.\n🎨 Grades Redesign: fresh look with dynamic color badges based on your performance.\n⚡ Performance: pages now load instantly thanks to our new smart caching system.\n🐛 Under-the-hood: fixed semester selection logic to show the latest schedule."
+  "min_version": "1.0.5",
+  "download_url": "https://github.com/Amigos207/cu-student-app/releases/download/v1.0.5/app-release.apk",
+  "changelog_ru": "✨ Что нового в v1.0.5:\n🎨 Премиальный редизайн: строгий бизнес-стиль, новые иконки и красивые эффекты матового стекла.\n🧭 Удобная навигация: все разделы теперь в нижнем меню (Bottom Sheet) с кнопкой быстрого возврата домой.\n🗓️ Умные селекторы: элегантное выпадающее меню для выбора семестра.\n🐛 Исправления: поправлена верстка расписания, визуальные артефакты меню и добавлена полная локализация.",
+  "changelog_ka": "✨ რა არის ახალი v1.0.5-ში:\n🎨 პრემიუმ დიზაინი: ბიზნეს-სტილი, ახალი აიკონები და შუშის (glassmorphism) ეფექტები.\n🧭 ნავიგაციის გაუმჯობესება: ყველა სექცია ქვედა მენიუშია (Bottom Sheet) 'მთავარი' ღილაკით.\n🗓️ ჭკვიანი სელექტორები: სემესტრის არჩევის ელეგანტური ჩამოსაშლელი მენიუ.\n🐛 გაუმჯობესებები: გასწორდა ცხრილის ვიზუალი, მენიუს არტეფაქტები და ლოკალიზაცია.",
+  "changelog_en": "✨ What's New in v1.0.5:\n🎨 Premium Redesign: sleek business look with new icons and glassmorphism effects.\n🧭 Navigation Polish: all sections are neatly organized in the Bottom Sheet with a quick 'Home' button.\n🗓️ Smart Selectors: elegant dropdown for semester selection.\n🐛 Bug Fixes: fixed schedule layout, menu visual artifacts, and missing localization."
 }
