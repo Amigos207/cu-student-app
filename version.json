@@ -1,9 +1,7 @@
 {
-  "min_version": "2.0.0",
-  "download_url": "https://github.com/Amigos207/cu-student-app/releases/download/v2.0.0/app-release.apk",
-  "changelog_ru": "✨ v2.0.0 — крупное обновление\n\nПриложение получило полностью новый дизайн, стало быстрее и удобнее в использовании. Добавлены уведомления о лекциях и событиях, а также возможность управлять лекциями прямо в календаре (добавлять и удалять). Навигация по приложению стала проще и логичнее.",
-  
-  "changelog_ka": "✨ v2.0.0 — დიდი განახლება\n\nაპლიკაციამ მიიღო სრულიად ახალი დიზაინი, გახდა უფრო სწრაფი და მოსახერხებელი. დაემატა ლექციების შეტყობინებები და კალენდარში ლექციების დამატების/წაშლის შესაძლებლობა. ნავიგაცია გამარტივდა და გახდა უფრო ლოგიკური.",
-  
-  "changelog_en": "✨ v2.0.0 — Major update\n\nThe app has a completely new design and improved performance. Notifications for lectures and events have been added, along with the ability to add and remove lectures directly in the calendar. Navigation is now simpler and more intuitive."
+  "min_version": "2.0.1",
+  "download_url": "https://github.com/Amigos207/cu-student-app/releases/download/v2.0.1/app-release.apk",
+  "changelog_ru": "✨ v2.0.1 — Небольшое улучшение\n\nТеперь при добавлении лекции можно выбрать аудиторию прямо в календаре. Это делает заполнение расписания удобнее и точнее.",
+  "changelog_ka": "✨ v2.0.1 — მცირე გაუმჯობესება\n\nახლა ლექციის დამატებისას შესაძლებელია აუდიტორიის არჩევა პირდაპირ კალენდარში. ეს განრიგის შევსებას უფრო მარტივსა და ზუსტს ხდის.",
+  "changelog_en": "✨ v2.0.1 — Small improvement\n\nYou can now choose the classroom when adding a lecture directly in the calendar. This makes scheduling more convenient and accurate."
 }
