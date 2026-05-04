@@ -1,7 +1,7 @@
 {
-  "min_version": "1.0.3",
-  "download_url": "https://github.com/Amigos207/cu-student-app/releases/latest/download/app-release.apk",
-  "changelog_en": "• New Grades section — shows all grades and GPA.",
-  "changelog_ru": "• Добавлен раздел Оценки — отображает все оценки и расчёт GPA.",
-  "changelog_ka": "• დაემატა შეფასებების განყოფილება — აჩვენებს შეფასებებს და GPA-ს."
+  "min_version": "2.0.2",
+  "download_url": "https://github.com/Amigos207/cu-student-app/releases/download/v2.0.2/app-release.apk",
+  "changelog_ru": "✨ v2.0.2 — Стабильность и улучшения\n\nДобавлены skeleton-экраны для более плавной загрузки. Исправлена проблема с потерей сессии после отключения и повторного включения интернета — приложение снова работает без лишних сбоев. Также улучшен внешний вид карточек экзаменов в календаре.",
+  "changelog_ka": "✨ v2.0.2 — სტაბილურობა და გაუმჯობესებები\n\nდაემატა skeleton-ეკრანები უფრო გლუვი ჩატვირთვისთვის. გამოსწორდა პრობლემა, როდესაც ინტერნეტის გათიშვისა და ხელახლა ჩართვის შემდეგ აპლიკაცია სესიას კარგავდა. ასევე გაუმჯობესდა გამოცდის ბარათების ვიზუალი კალენდარში.",
+  "changelog_en": "✨ v2.0.2 — Stability & improvements\n\nAdded skeleton screens for smoother loading. Fixed session recovery after internet reconnect, so the app works properly again without unnecessary issues. Also improved the visual appearance of exam cards in the calendar."
 }
