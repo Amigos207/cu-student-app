@@ -1,7 +1,7 @@
 {
-  "min_version": "2.0.2",
-  "download_url": "https://github.com/Amigos207/cu-student-app/releases/download/v2.0.2/app-release.apk",
-  "changelog_ru": "✨ v2.0.2 — Стабильность и улучшения\n\nДобавлены skeleton-экраны для более плавной загрузки. Исправлена проблема с потерей сессии после отключения и повторного включения интернета — приложение снова работает без лишних сбоев. Также улучшен внешний вид карточек экзаменов в календаре.",
-  "changelog_ka": "✨ v2.0.2 — სტაბილურობა და გაუმჯობესებები\n\nდაემატა skeleton-ეკრანები უფრო გლუვი ჩატვირთვისთვის. გამოსწორდა პრობლემა, როდესაც ინტერნეტის გათიშვისა და ხელახლა ჩართვის შემდეგ აპლიკაცია სესიას კარგავდა. ასევე გაუმჯობესდა გამოცდის ბარათების ვიზუალი კალენდარში.",
-  "changelog_en": "✨ v2.0.2 — Stability & improvements\n\nAdded skeleton screens for smoother loading. Fixed session recovery after internet reconnect, so the app works properly again without unnecessary issues. Also improved the visual appearance of exam cards in the calendar."
+  "min_version": "2.1.0",
+  "download_url": "https://github.com/Amigos207/cu-student-app/releases/download/v2.1.0/app-release.apk",
+  "changelog_ru": "✨ v2.1.0 — Smarter Navigation\n\nДобавлена haptic-вибрация и новый Calculator Screen для расчёта посещаемости и оценок. Навигация стала удобнее: свайпы между разделами отключены, но внутри подразделов всё работает как раньше.",
+  "changelog_ka": "✨ v2.1.0 — Smarter Navigation\n\nდაემატა haptic ვიბრაცია და ახალი Calculator Screen დასწრებისა და შეფასებების გამოსათვლელად. ნავიგაცია გაუმჯობესდა — სექციებს შორის swipe გამორთულია, ხოლო ქვე-სექციებში კვლავ მუშაობს.",
+  "changelog_en": "✨ v2.1.0 — Smarter Navigation\n\nAdded haptic feedback and a new Calculator Screen to estimate attendance and grades. Navigation is now cleaner: swiping between main sections is disabled, while subsection swipes still work."
 }
