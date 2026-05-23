@@ -1,7 +1,7 @@
 {
-  "min_version": "2.1.0",
-  "download_url": "https://github.com/Amigos207/cu-student-app/releases/download/v2.1.0/app-release.apk",
-  "changelog_ru": "✨ v2.1.0 — Smarter Navigation\n\nДобавлена haptic-вибрация и новый Calculator Screen для расчёта посещаемости и оценок. Навигация стала удобнее: свайпы между разделами отключены, но внутри подразделов всё работает как раньше.",
-  "changelog_ka": "✨ v2.1.0 — Smarter Navigation\n\nდაემატა haptic ვიბრაცია და ახალი Calculator Screen დასწრებისა და შეფასებების გამოსათვლელად. ნავიგაცია გაუმჯობესდა — სექციებს შორის swipe გამორთულია, ხოლო ქვე-სექციებში კვლავ მუშაობს.",
-  "changelog_en": "✨ v2.1.0 — Smarter Navigation\n\nAdded haptic feedback and a new Calculator Screen to estimate attendance and grades. Navigation is now cleaner: swiping between main sections is disabled, while subsection swipes still work."
+  "min_version": "2.1.1",
+  "download_url": "https://github.com/Amigos207/cu-student-app/releases/download/v2.1.1/app-release.apk",
+  "changelog_ru": "✨ v2.1.1 — Better Organization\n\nДобавлена сортировка предметов в посещаемости и оценках. Также в разделе оценок появилась опция «Не показывать предыдущие семестры».",
+  "changelog_ka": "✨ v2.1.1 — Better Organization\n\nდაემატა საგნების სორტირება დასწრებასა და შეფასებებში. ასევე შეფასებების გვერდზე დაემატა ფუნქცია — „არ აჩვენო წინა სემესტრები“.",
+  "changelog_en": "✨ v2.1.1 — Better Organization\n\nAdded subject sorting in Attendance and Grades. Also added a new option in Grades: “Hide previous semesters”."
 }
