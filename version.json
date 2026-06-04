@@ -1,6 +1,6 @@
 {
-  "min_version": "2.1.3",
-  "download_url": "https://github.com/Amigos207/cu-student-app/releases/download/v2.1.3/app-release.apk",
+  "min_version": "2.1.4",
+  "download_url": "https://github.com/Amigos207/cu-student-app/releases/download/v2.1.4/app-release.apk",
   "changelog_ru": "✨ v2.1.3 — Personalized Home Screen\n\nИсправлены расчёты в Calculator Screen. Теперь карточки на главном экране можно перемещать, а ненужные — скрывать.",
   "changelog_ka": "✨ v2.1.3 — Personalized Home Screen\n\nგამოსწორდა Calculator Screen-ის გამოთვლები. ასევე, მთავარ ეკრანზე ბარათების გადაადგილება და დამალვა გახდა შესაძლებელი.",
   "changelog_en": "✨ v2.1.3 — Personalized Home Screen\n\nFixed incorrect calculations in the Calculator Screen. You can now rearrange and hide cards on the Home Screen."
